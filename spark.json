@@ -1,0 +1,7 @@
+{
+  
+  "name": "tmpDS18B20",
+  "author": "ok",  
+  "version": "1.0.0",
+  "description": "Dallas OneWire protocol support with ReadTemp example"
+}
